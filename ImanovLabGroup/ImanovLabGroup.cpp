@@ -3,11 +3,7 @@
 
 #include <iostream>
 #include <iomanip>  
-
-
 using namespace std;
-
-
 struct Node {
 
     double data;
